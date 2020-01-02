@@ -6,7 +6,7 @@
 
 ## Trees
 ![Trees](https://user-images.githubusercontent.com/42160652/71651925-7af67700-2cef-11ea-9536-a8936c41634d.jpeg)
-###### Tree is another data strucutre. Also a tree is a type of graph
+###### Tree is another data strucutre. Also a tree is a type of graph.
 
 ### Traversing Through Trees
 
