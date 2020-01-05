@@ -46,4 +46,4 @@
 
 ### Log n runtime
 ![IMG_2556](https://user-images.githubusercontent.com/42160652/71784488-ff801880-2fc1-11ea-9371-a0e358b65354.jpeg)
-###### Log n is one of the major big O notations
+###### Log n is one of the major big O notations.
