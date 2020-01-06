@@ -37,13 +37,17 @@
 ## Complexity analysis
 
 <img width="1194" alt="View album “Recents”" src="https://user-images.githubusercontent.com/42160652/71754851-08ec7200-2e56-11ea-834f-f0ac7b7995d0.png">
-##### Complexity analysis is a very important topic as it focuses on memory the algorithm uses during execution.
+
+###### Complexity analysis is a very important topic as it focuses on memory the algorithm uses during execution.
 
 ## Time complexity
 ![IMG_2550](https://user-images.githubusercontent.com/42160652/71754982-8b753180-2e56-11ea-90d0-6787623ff304.jpeg)
+
 ###### Time analysis is a very important topic as it focuses on time the algorithm takes during execution.
- ###### To learn more about time complexity and big o click [here](https://github.com/fayedraza/Big-O#big-o).
+
+###### To learn more about time complexity and big o click [here](https://github.com/fayedraza/Big-O#big-o).
 
 ### Log n runtime
 ![IMG_2556](https://user-images.githubusercontent.com/42160652/71784488-ff801880-2fc1-11ea-9371-a0e358b65354.jpeg)
+
 ###### Log n is one of the major big O notations.
