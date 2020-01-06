@@ -37,7 +37,7 @@
 ## Complexity analysis
 
 <img width="1194" alt="View album “Recents”" src="https://user-images.githubusercontent.com/42160652/71754851-08ec7200-2e56-11ea-834f-f0ac7b7995d0.png">
-###### Complexity analysis is a very important topic as it focuses on memory the algorithm uses during execution.
+##### Complexity analysis is a very important topic as it focuses on memory the algorithm uses during execution.
 
 ## Time complexity
 ![IMG_2550](https://user-images.githubusercontent.com/42160652/71754982-8b753180-2e56-11ea-90d0-6787623ff304.jpeg)
