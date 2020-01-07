@@ -5,6 +5,11 @@
 
 ###### Focuses on two types of arrays: static and dynamic
 
+## Linked Lists
+![IMG_2563](https://user-images.githubusercontent.com/42160652/71927602-d26b6b80-3163-11ea-9e2d-27e9418d0a1b.jpeg)
+
+###### Linkedlists are a very common data structure
+
 ## Graphs
 ![Graphs](https://user-images.githubusercontent.com/42160652/71651978-dc1e4a80-2cef-11ea-824c-a96cf0114dfe.jpeg)
 
