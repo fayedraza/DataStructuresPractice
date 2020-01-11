@@ -1,5 +1,10 @@
 # Data Structures
 
+## Hash Tables
+![IMG_2605](https://user-images.githubusercontent.com/42160652/72194841-65fba100-33dd-11ea-8dd0-2bc63a307fb8.jpeg)
+
+###### Hash tables are a data structure
+
 ## Arrays
 ![IMG_2560](https://user-images.githubusercontent.com/42160652/71844400-037c6b00-3094-11ea-9a74-debaa02965fd.jpeg)
 
