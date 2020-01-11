@@ -15,6 +15,10 @@
 
 ###### Linked lists are a very common data structure
 
+## Stacks and Queues
+<img width="1194" alt="View recent photos" src="https://user-images.githubusercontent.com/42160652/72208449-b53ee180-3470-11ea-8603-f08e566e1976.png">
+###### Stacks and queues are a very common data structure
+
 ## Graphs
 ![Graphs](https://user-images.githubusercontent.com/42160652/71651978-dc1e4a80-2cef-11ea-824c-a96cf0114dfe.jpeg)
 ![IMG_2604](https://user-images.githubusercontent.com/42160652/72193769-f5eb1c00-33d8-11ea-9f7f-ab40261c2b50.jpeg)
