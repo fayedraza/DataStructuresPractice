@@ -1,10 +1,5 @@
 # Data Structures
 
-## Hash Tables
-![IMG_2605](https://user-images.githubusercontent.com/42160652/72194841-65fba100-33dd-11ea-8dd0-2bc63a307fb8.jpeg)
-
-###### Hash tables are a data structure
-
 ## Arrays
 ![IMG_2560](https://user-images.githubusercontent.com/42160652/71844400-037c6b00-3094-11ea-9a74-debaa02965fd.jpeg)
 
@@ -17,19 +12,26 @@
 
 ## Stacks and Queues
 ![IMG_2610](https://user-images.githubusercontent.com/42160652/72208524-9d1b9200-3471-11ea-96ed-86154ae2f55b.jpeg)
+
 ###### Stacks and queues are a very common data structure
 
 ## Graphs
 ![Graphs](https://user-images.githubusercontent.com/42160652/71651978-dc1e4a80-2cef-11ea-824c-a96cf0114dfe.jpeg)
 ![IMG_2604](https://user-images.githubusercontent.com/42160652/72193769-f5eb1c00-33d8-11ea-9f7f-ab40261c2b50.jpeg)
+
 ###### Graphs are a very common data structure.
+
+## Hash Tables
+![IMG_2605](https://user-images.githubusercontent.com/42160652/72208644-24b5d080-3473-11ea-9da7-30755257f055.jpeg)
+
+###### Hash tables are a data structure
 
 ## Trees
 ![Trees](https://user-images.githubusercontent.com/42160652/71651925-7af67700-2cef-11ea-9536-a8936c41634d.jpeg)
 
 ###### Tree is another data strucutre. Also a tree is a type of graph.
 
-### Binary search analysis
+### Binary Search Tree Analysis
 ![IMG_2551](https://user-images.githubusercontent.com/42160652/71755463-b19bd100-2e58-11ea-9e21-2ef01009cc9b.jpeg)
 
 ### Traversing Through Trees
