@@ -21,6 +21,11 @@
 
 ###### Graphs are a very common data structure.
 
+### Dijkstra's Algorithm
+![IMG_2614](https://user-images.githubusercontent.com/42160652/72212171-200a1000-34a5-11ea-9cdf-4a1c62e5c93b.jpeg)
+###### This algorithm is used to find the fastest path to the destination in a graph.
+###### Resource: https://youtu.be/eFZCPlZCyIM
+
 ## Hash Tables
 ![IMG_2605](https://user-images.githubusercontent.com/42160652/72208644-24b5d080-3473-11ea-9da7-30755257f055.jpeg)
 
