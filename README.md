@@ -48,6 +48,7 @@
 
 #### Depth-first search
 ![D](https://user-images.githubusercontent.com/42160652/71651882-058aa680-2cef-11ea-8291-a37f225acc08.jpeg)
+![IMG_2615](https://user-images.githubusercontent.com/42160652/72230274-48b40780-3582-11ea-8f46-b31a7158956e.jpeg)
 
 ###### Depth-first search is one of the ways to traverse through a tree. 
 
