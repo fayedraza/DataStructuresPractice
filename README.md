@@ -5,9 +5,9 @@
 
 ###### Focuses on two types of arrays: static and dynamic
 
-## Linked Lists
+## Linked Lists/Array Lists
 ![IMG_2563](https://user-images.githubusercontent.com/42160652/71927602-d26b6b80-3163-11ea-9e2d-27e9418d0a1b.jpeg)
-
+![IMG_2619](https://user-images.githubusercontent.com/42160652/72367062-7fe10080-36c9-11ea-9e30-ee8141ac5329.jpeg)
 ###### Linked lists are a very common data structure
 
 ## Stacks and Queues
@@ -30,6 +30,9 @@
 ![IMG_2605](https://user-images.githubusercontent.com/42160652/72208644-24b5d080-3473-11ea-9da7-30755257f055.jpeg)
 
 ###### Hash tables are a data structure
+
+## Hash Map
+![IMG_2618](https://user-images.githubusercontent.com/42160652/72367003-62139b80-36c9-11ea-9a80-99a7dffade26.jpeg)
 
 ## Trees
 ![Trees](https://user-images.githubusercontent.com/42160652/71651925-7af67700-2cef-11ea-9536-a8936c41634d.jpeg)
