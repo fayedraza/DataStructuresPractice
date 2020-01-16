@@ -31,8 +31,10 @@
 
 ###### Hash tables are a data structure
 
-## Hash Map
+## Hash Map/ Hash Set
 ![IMG_2618](https://user-images.githubusercontent.com/42160652/72367003-62139b80-36c9-11ea-9a80-99a7dffade26.jpeg)
+![IMG_2624](https://user-images.githubusercontent.com/42160652/72558932-a9d52700-3871-11ea-9378-3c1f101fb45e.jpeg)
+![IMG_2625](https://user-images.githubusercontent.com/42160652/72558933-aa6dbd80-3871-11ea-870b-6fe9779507b1.jpeg)
 
 ## Trees
 ![Trees](https://user-images.githubusercontent.com/42160652/71651925-7af67700-2cef-11ea-9536-a8936c41634d.jpeg)
