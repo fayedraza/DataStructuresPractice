@@ -48,7 +48,7 @@
 
 #### Breadth-first search
 ![Breadth ](https://user-images.githubusercontent.com/42160652/71651846-c197a180-2cee-11ea-9bb2-e031782923ce.jpeg)
-
+![IMG_2630](https://user-images.githubusercontent.com/42160652/72578190-5f6c9e00-38a3-11ea-8dd4-da14afe7ecad.jpeg)
 ###### Breadth-first search is one of the ways to traverse through a tree. 
 
 #### Depth-first search
